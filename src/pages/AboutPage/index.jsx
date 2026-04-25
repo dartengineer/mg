@@ -1,4 +1,4 @@
-import { SERVICES, STATS } from "../../constants";
+import { STATS } from "../../constants";
 import Ticker from "../../components/Ticker";
 
 export default function AboutPage() {
